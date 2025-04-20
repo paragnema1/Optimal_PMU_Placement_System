@@ -1,0 +1,31 @@
+2025-04-20 17:52:19,822 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 17:53:33,045 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 17:53:40,754 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:21:29,730 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:21:37,533 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:21:52,720 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:21:57,987 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:21:58,005 - pyswarms.discrete.binary - INFO - Optimize for 40 iters with {'c1': 0.7, 'c2': 0.4, 'w': 0.8, 'k': 30, 'p': 2}
+2025-04-20 18:21:58,962 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1117.0, best pos: [0 0 0 1 1 0 1 1 0 0 1 1 1 0 0 0 0 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0
+ 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 0 1 1
+ 1 0 0 1 1 1 0 1 0 0 1 0 1 1 0 1 0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1
+ 1 0 0 0 0 1 1 0 0 1 0 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1
+ 1 1 0 1 1 1 0 1 0 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 1 0 0 0
+ 1 0 1 0 1 1 0 0 0 1 1 0 0 0 1 0 1 1 1 0 1 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0
+ 0 1 0 0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 1 1 0 1 0 0
+ 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 1 0 0 1
+ 1 0 0 1]
+2025-04-20 18:24:47,437 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:25:00,592 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:25:06,844 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:25:14,140 - pandapower.convert_format - INFO - These dtypes could not be corrected: {'trafo': ['tap_neutral', 'tap_min', 'tap_max', 'tap_pos']}
+2025-04-20 18:25:14,154 - pyswarms.discrete.binary - INFO - Optimize for 40 iters with {'c1': 0.7, 'c2': 0.4, 'w': 0.8, 'k': 30, 'p': 2}
+2025-04-20 18:25:15,079 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1111.0, best pos: [1 0 1 0 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 1 1 1 1
+ 1 0 1 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 1 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0
+ 0 0 1 0 0 0 0 1 0 0 0 1 1 1 1 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0
+ 0 1 0 1 0 0 0 1 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1
+ 0 0 1 1 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 0 0 0 0 1 1 1 0
+ 0 1 1 0 0 1 0 0 0 0 1 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0
+ 0 0 0 1 0 0 0 0 1 1 1 0 1 0 1 1 1 0 1 0 0 0 0 1 0 1 1 0 1 0 0 0 0 1 0 1 0
+ 1 1 0 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 0 1 0 1
+ 0 1 0 1]
